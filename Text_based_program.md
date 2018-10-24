@@ -1,23 +1,22 @@
 Text based program
 For this program we had to create a program that provided the user information over a specific topic, while using loops, menu choices, subsections, and color.
 
-
-For my prodject I provided information over the Greek gods. 
+For my prodject I provided information over the Greek gods.(The syntax for some of the indents is incorrect, because other wise the program would not properly appear on the screen)
 # My Code
 
-print("")
-print("\033[1;4;31m The Greek Gods \033[0m")
-print("")
-input("\033[33m press enter to continue\033[0m")
-print("")
-print("\033[32m In ancient Greece, the Greeks believed in the twelve Olympian Gods.  These Gods were powerful deities that lived on Mount Olympus.  All of the Gods resided on Mount Olympus, except for Persephone and Hades who lived in the Underworld.  These gods were created by the Greeks in order to explain how the world around them worked.  Each god represented a/n element of the natural world.  Although there were many minor Gods, only the main twelve were worshipped.\033[0m")
-print("")
-input("\033[33m press enter to continue\033[0m")
-print("")
+    print("")
+    print("\033[1;4;31m The Greek Gods \033[0m")
+    print("")
+    input("\033[33m press enter to continue\033[0m")
+    print("")
+    print("\033[32m In ancient Greece, the Greeks believed in the twelve Olympian Gods.  These Gods were powerful deities that lived on Mount Olympus.  All of the Gods resided on Mount Olympus, except for Persephone and Hades who lived in the Underworld.  These gods were created by the Greeks in order to explain how the world around them worked.  Each god represented a/n element of the natural world.  Although there were many minor Gods, only the main twelve were worshipped.\033[0m")
+    print("")
+    input("\033[33m press enter to continue\033[0m")
+    print("")
 
 
 
-while True:
+    while True:
 
     menu_choice = input("\033[3;46;37m type 1 to learn about the Gods, or type 2 to learn about the Godesses. To exit, type x. Press enter to finalize your choice.\033[0m")
 
@@ -117,4 +116,4 @@ while True:
 
 
 
-print("\033[1;3;4;31m Goodbye.\033[0m")
+    print("\033[1;3;4;31m Goodbye.\033[0m")
