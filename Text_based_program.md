@@ -1,7 +1,9 @@
-Text based program
+## Text based program
 For this program we had to create a program that provided the user information over a specific topic, while using loops, menu choices, subsections, and color.
 
 For my prodject I provided information over the Greek gods.(The syntax for some of the indents is incorrect, because other wise the program would not properly appear on the screen)
+
+
 # My Code
 
     print("")
