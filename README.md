@@ -5,3 +5,4 @@ In this portfolio I will include different programs that I have learned how to c
 * [Caeser Cipher](https://forehgra001.github.io/Portfolio/caesercipher)
 * [Mirror Cipher](https://forehgra001.github.io/Portfolio/mirrorcipher)
 * [Program Loops](https://forehgra001.github.io/Portfolio/loops)
+* [Menu Choices](https://forehgra001.github.io/Portfolio/menuchoices)
